@@ -3,7 +3,7 @@ import Degrees from "./Degrees";
 
 export default function Forecast() {
   let forecastData = {
-    city: "New York",
+    city: "Miami",
     date: "Sunday 13:00",
     description: "Clear",
   };
